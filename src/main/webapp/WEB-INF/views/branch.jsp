@@ -7,7 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-branch2master
-i changed the content
+it's a branch
+<!-- push를 하지 않ㅇ면 git에 올라가지 않는다! -->
 </body>
 </html>
