@@ -7,7 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-i changed the content
-수정해보기
+브렌치에서 만든 파일
 </body>
 </html>
