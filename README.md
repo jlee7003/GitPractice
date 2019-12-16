@@ -1,7 +1,8 @@
-HOW TO USE GIT
+*<h2>HOW TO USE GIT</h2>*
 https://cupjoo.tistory.com/6 출처
+<hr>
 
-1.Git 의 개념 알아보기
+*1.Git 의 개념 알아보기*
 
 1)저장소
 
